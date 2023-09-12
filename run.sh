@@ -1,1 +1,1 @@
-jupyter nbconvert --to notebook --execute GNN_ai4ddGPU.ipynb --allow-errors --output=outputGPU.ipynb --ExecutePreprocessor.timeout=None
+jupyter nbconvert --to notebook --execute GNN_ai4ddGPU.ipynb --allow-errors --output=outputGPU4.ipynb --ExecutePreprocessor.timeout=None
